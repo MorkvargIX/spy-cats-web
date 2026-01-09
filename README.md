@@ -29,8 +29,8 @@ The application allows SCA agents to manage spy cats through a clean and minimal
 
 ## 📦 Prerequisites
 
-- **Node.js** ≥ 18
-- **npm** or **pnpm**
+- **Node.js** == v24.9.0
+- **npm** == 11.6.0
 - Running backend service (`spy-cats-api`)
 
 ---
